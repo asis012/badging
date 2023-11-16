@@ -2,5 +2,6 @@
   "@context": "https://w3id.org/openbadges/v2",
   "id": "https://asis012.github.io/badging/assertion.json",
   "revoked": true,
-  "revocationReason": "Turns out the student's robot was just three stacked children in a trenchcoat with dryer vent hose arms."
+  "revocationReason": "Turns out the student's robot was just three stacked children in a trenchcoat with dryer vent hose arms.",
+  "badge":"https://asis012.github.io/badging/badges.json"
 }
