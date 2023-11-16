@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://asis012.github.io/badging/revocation-list.json",
+  "id": "https://asis012.github.io/badging/revocationList.json",
   "type": "RevocationList",
   "issuer": "https://asis012.github.io/badging/issuers.json",
   "revokedAssertions": [
