@@ -6,7 +6,7 @@
   "revokedAssertions": [
     "https://asis012.github.io/badging/assertion.json",
     {
-      "id": "https://asis012.github.io/badging/assertion.json",
+      "id": "abc123",
       "revocationReason": "Honor code violation"
     },
     {
