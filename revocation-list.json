@@ -1,6 +1,5 @@
 {
 	"https://asis012.github.io/badging/assertion.json": "Issued in error",
 	"123abc": "Violation of conditions",
-	"def456": "Award reconsidered",
-	...
+	"def456": "Award reconsidered"
 }
