@@ -1,5 +1,17 @@
 {
-	"https://asis012.github.io/badging/assertion.json": "Issued in error",
-	"123abc": "Violation of conditions",
-	"def456": "Award reconsidered"
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://asis012.github.io/badging/revocation-list.json",
+  "type": "RevocationList",
+  "issuer": "https://asis012.github.io/badging/issuers.json",
+  "revokedAssertions": [
+    "https://asis012.github.io/badging/assertion.json",
+    {
+      "id": "https://asis012.github.io/badging/assertion.json",
+      "revocationReason": "Honor code violation"
+    },
+    {
+      "uid": "https://asis012.github.io/badging/assertion.json",
+      "revocationReason": "Issued in error."
+    }
+  ]
 }
