@@ -1,1 +1,6 @@
-{"@context":"https://w3id.org/openbadges/v2","type":"Assertion","id":"https://asis012.github.io/badging/assertion.json","recipient":{"type":"email","hashed":true,"identity":"sha256$0ea8e2709baee6e1591a5b886826c05a03d9e6b38c6da3f645c6f258030b4db5"},"badge":"https://asis012.github.io/badging/badges.json","verify":{"type":"hosted"},"issuedOn":"2023-11-03T13:49:44+11:00", "revoked": true, "revocationReason": "Turns out the student's robot was just three stacked children in a trenchcoat with dryer vent hose arms."}
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://asis012.github.io/badging/assertion.json",
+  "revoked": true,
+  "revocationReason": "Turns out the student's robot was just three stacked children in a trenchcoat with dryer vent hose arms."
+}
